@@ -19,5 +19,5 @@ Obsecado pela tecnologia e o jeito que ela pode mudar as nossas vidas
                                                                                                                             
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoPicolo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br/>
                                                                                                                             
-![Snake animation](https://github.com/DevBatista1/TiagoPicolo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/TiagoPicolo/TiagoPicolo/blob/output/github-contribution-grid-snake.svg)
                                                                                                                             
